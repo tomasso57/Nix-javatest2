@@ -1,2 +1,3 @@
 # Nix-javatest2
-ReadMe-be való első beírás, majd feltöltésx 
+ReadMe második commit 
+git commit -m "comment hogy tudjuk mit csináltunk"
